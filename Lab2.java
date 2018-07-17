@@ -3,6 +3,9 @@
 //Command+Shift+O == auto import for known errors
 import java.util.*;
 
+/*Jasmine Allen
+ * July 16th, 2018
+*/
 public class Lab2 {
 
 	public static void main(String[] args) {
